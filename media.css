@@ -1,0 +1,140 @@
+@media (max-width:721px) {
+    * {
+        margin: 0;
+        box-sizing: border-box;
+        scroll-behavior: smooth;
+    }
+
+    .nav {
+        height: 20px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .navbar {
+        width: 375px;
+        margin: 10px;
+    }
+
+    a {
+        font-size: 15px;
+        padding-right: 20px;
+    }
+
+    .profile {
+        height: 40px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .description {
+        text-align: center;
+        margin-top: 15px;
+        font-size: 10px;
+    }
+
+    .propic {
+
+        display: flex;
+        justify-content: center;
+        height: 130px;
+
+    }
+
+    .dp {
+        margin-top: 15px;
+        height: 100px;
+        width: 100px;
+    }
+
+    .des {
+
+        text-align: center;
+        height: 40px;
+    }
+
+    .self {
+        padding: 0px 8px;
+        font-size: 9px;
+    }
+
+    .myskills {
+        text-align: center;
+        height: 10px;
+        font-size: 15px;
+    }
+
+    .sq {
+        height: 80px;
+    }
+
+    .course {
+        height: 50px;
+        width: 50px;
+        border-radius: 20%;
+        font-size: 35px;
+    }
+
+    .corname {
+        font-size: 6px;
+    }
+
+    .projects {
+        height: 170px;
+    }
+
+    .proj-1 {
+        margin-top: 20px;
+        height: 140px;
+        width: 300px;
+    }
+
+    .proj-2 {
+        margin-top: 20px;
+        height: 140px;
+        width: 300px;
+    }
+
+    .proj-3 {
+        margin-top: 20px;
+        height: 140px;
+        width: 300px;
+    }
+
+    .proname {
+        font-size: 10px;
+    }
+    .contactme{
+        display: flex;
+        justify-content: center;
+    }
+    .me{
+        margin-top: 5px;
+        height: 20px;
+        font-size: 15px;
+    }
+    .contact{
+        height:30px;  
+    }
+    .coname{
+        margin-top:0px; 
+        padding-right:30px;
+    }
+    .cona{
+        height:15px;
+        font-size: 9px;
+        width: 120px;
+        background-color: #22223B;
+        color: #EDF6F9;
+    }
+    .social{
+        height: 25px;
+    }
+    .media{
+        margin-top: 5px;
+        font-size: 15px;
+        text-align: center;
+    }
+
+
+}
